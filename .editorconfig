@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0011: Ajouter des accolades
+csharp_prefer_braces = false
